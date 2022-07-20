@@ -1,4 +1,4 @@
-# UPDATE: READ THIS FIRST PART PLEASE
+# >>> UPDATE: READ THIS FIRST PART PLEASE <<<
 This was made a while back. A good chunk of the content may or may not be outdated for the upcoming CCDC competitions. Use at your discretion. Thank you!
 
 # CCDC_Prep_2021_Ecommerce
