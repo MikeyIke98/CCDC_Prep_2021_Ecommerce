@@ -1,3 +1,6 @@
+# UPDATE: READ THIS FIRST PART PLEASE
+This was made a while back. A good chunk of the content may or may not be outdated for the upcoming CCDC competitions. Use at your discretion. Thank you!
+
 # CCDC_Prep_2021_Ecommerce
 Most material here will be geared towards CCDC Documentation, Linux Server Hardening, Debian 9 / CentOS 7 quirks and other related things. The Ecommerce box (Running MySQL, Apache and Wordpress, more specifically.)
 
